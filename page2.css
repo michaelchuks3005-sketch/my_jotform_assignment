@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+}
+.container{
+    height: 68vh;
+    width: 40%;
+    background-color: white;
+    margin-left: 30%;
+    margin-top: 3%;
+    
+
+
+    border: 2px solid white;
+    border-radius: 5%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding:2%;
+
+}
+.sec,h3{
+    font-family: Lato, sans-serif;
+}
+.top,h1{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    color: rgb(44, 51, 69);
+    size: 30px;
+    line-height: 44px;
+}
+.top,h5{
+    font-size: lato, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: rgb(87, 100, 126);
+    size: 15px;
+    line-height: 24px;
+}

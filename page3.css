@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+
+}
+.all{
+    height: 50vh;
+    width: 38%;
+    background-color: transparent;
+    margin-left: 31%;
+    margin-top: 2%;
+    border: 2px solid white;
+    border-radius: 5%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    padding:2%;
+}
+.top{
+    margin-top: 15px;
+}
+.top,h2{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    size: 30px;
+    line-height: 43.5px;
+    color: #2c3345;
+}
+.top,h6{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 12px;
+    color: #57647e;
+}
+.ytbs{
+    margin-top: 18px;
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15.55px;
+    line-height: 25.447px;
+    color: #2c3345;
+}
+.rh{
+    margin-top: 10px;
+}
+.d{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.25px;
+    line-height: normal;
+    color: #2c3345;
+}
+.busi{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size:14.25px;
+    color: #2c3345;
+}
+.nos{
+    font-family: Lato, sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14.2px;
+    line-height: normal;
+    color: #2c3345;
+}
+.nos,.busi,.d{
+    margin: 13px;
+}
+
+.bt1{
+    height: 6vh;
+    width: 30%;
+    background-color: rgb(185, 182, 182);
+    border-radius: 5px;
+    border:transparent;
+}
+.bt2{
+    height: 6vh;
+    width: 30%;
+    background-color: rgb(9, 9, 202);
+    margin-left: 18%;
+    border: transparent;
+    border-radius: 5px;
+}
+.last{
+    margin: 2%;
+}
+input{
+    background-color: transparent;
+    border: 1px solid black;
+    color: black;
+    margin-left: 65px;
+    
+}
+#dat{
+    margin-left: 90px;
+    width: 170px;
+}
